@@ -1,2 +1,1 @@
-#ibank
 esse site foi feito para você ter um acesso mais rápido e prático a sua conta do banco, e se não tiver uma conta já feita, você pode se cadastrar e ser mais um dos nossos clientes.
